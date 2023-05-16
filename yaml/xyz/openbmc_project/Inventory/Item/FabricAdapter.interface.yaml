@@ -10,4 +10,4 @@ associations:
         connecting association to  provide links to one or more Ports.
     reverse_name: connected_to
     required_endpoint_interfaces:
-        - xyz.openbmc_project.Inventory.Connector.Port
+        - xyz.openbmc_project.Inventory.Item.Port
